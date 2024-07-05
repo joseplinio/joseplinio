@@ -1,4 +1,4 @@
-## Hello. I am joseplinio 😶‍🌫️
+## Hello, I am joseplinio 😶‍🌫️
 
 - 🔭 I'm looking for a job
 - 🌱 I'm studying elixir, postergrreSQl and others
