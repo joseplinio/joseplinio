@@ -12,3 +12,4 @@ So from what I said, I'm José Plinio, a 16 year old young man who wants to work
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
