@@ -9,7 +9,7 @@
 - 🧑🏾‍💻 I also love the **program**, even though I know it's useless, but I love it
 
 ## 🪧 My languages 
-- 🐍 I'm currently using **Python**, but I'm already studying others like **JavaScript**, **C#** and **Elixir**
+- 🐍 I'm currently using **Python**, but I'm already studying others like **Rust** and **Elixir**
   
 ## 🔗 How to contact me?
 - **Email:** contactorjoseplinio@gmail.com
