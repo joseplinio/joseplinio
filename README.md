@@ -1,7 +1,7 @@
 
 
 ## ✨ About Me 
-- So from what I said, I'm José Plinio, a 16 year old young man who wants to work in the programming field
+- So from what I said, I'm *José Plinio*, a 16 year old young man who wants to work in the programming field
 
 ## 🪸 My love
 - 🥋 I love listening to **music** and playing sports like **jiu-jitsu**, **basketball**
