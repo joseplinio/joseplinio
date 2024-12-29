@@ -1,7 +1,7 @@
 <samp>
   About Me:
   <ul>
-    <li>Hi, I'm <i>Plinio</i>, a <i>16yo</i></li>
+    <li>Hi, I'm <b>Plinio</b>, a <b>16yo</b></li>
     <li>From Brazil(🏖️)</li>
     <li>I speak (pt-br/en)</li>
   </ul>
