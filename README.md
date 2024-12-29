@@ -1,15 +1,18 @@
-
-
-## ✨ About Me 
-- So from what I said, I'm *José Plinio*, a 16 year old young man who wants to work in the programming field
-
-## 🪸 My love
-- 🥋 I love listening to **music** and playing sports like **jiu-jitsu**, **basketball**
-- 🧳 I also love going out with friends, this is simply wonderful, in my opinion
-- 🧑🏾‍💻 I also love the **program**, even though I know it's useless, but I love it
-
-## 🪧 My languages 
-- 🐍 I'm currently using **Python**, but I'm already studying others like **Rust** and **Elixir**
-  
-## 🔗 How to contact me?
-- **Email:** contactorjoseplinio@gmail.com
+<samp>
+  About Me:
+  <ul>
+    <li>Hi, I'm <i>Plinio</i>, a <i>16yo</i></li>
+    <li>From Brazil(🏖️)</li>
+    <li>I speak (pt-br/en)</li>
+  </ul>
+  I want to work as a software engineer:
+  <ul>
+    <li>I work with <b>Python</b> and <b>html/css</b></li>
+    <li>My <a href="https://joseplinio.github.io/Portfolio/" target="_black" rel="external">portfiolio<a></li>
+  </ul>
+  Talk to me:
+  <ul>
+    <li>My <a href="pliniio.dev@gmail.com
+">Email<a></li>
+  </ul>
+</samp>
