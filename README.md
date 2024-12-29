@@ -12,7 +12,7 @@
   </ul>
   Talk to me:
   <ul>
-    <li>My <a href="pliniio.dev@gmail.com
-">Email<a></li>
+    <li><a href="mailto:pliniio.dev@gmail.com
+">pliniio.dev@gmail.com<a></li>
   </ul>
 </samp>
