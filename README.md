@@ -7,7 +7,7 @@
   </ul>
   I want to work as a <b>software engineer</b>:
   <ul>
-    <li>I work with <b>Python</b> and <b>html/css</b></li>
+    <li>I work with <b>Python</b>, <b>Ts/React</b>, <b>Node.js</b></li>
     <li>My <a href="https://joseplinio.github.io/Portfolio/" target="_black" rel="external">portfiolio<a></li>
   </ul>
   <b>Talk to me:</b>
