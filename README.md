@@ -7,12 +7,9 @@
   </ul>
   I want to work as a <b>software engineer</b>:
   <ul>
-    <li>I work with <b>Python</b>, <b>Ts/React</b>, <b>Node.js</b></li>
+    <li>I work with <b>Typescript</b>, <b>Node.js</b></li>
     <li>My <a href="https://joseplinio.github.io/Portfolio/" target="_black" rel="external">portfiolio<a></li>
   </ul>
-  <b>Talk to me:</b>
-  <ul>
-    <li><a href="mailto:pliniio.dev@gmail.com
-">pliniio.dev@gmail.com<a></li>
-  </ul>
+  <b>Have a good day ;]</b>
+
 </samp>
